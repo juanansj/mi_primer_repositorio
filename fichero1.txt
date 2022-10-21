@@ -1,2 +1,3 @@
 fichero1
 linea2
+linea2
